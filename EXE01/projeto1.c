@@ -8,6 +8,7 @@ int main(void)
     double d;
     long double e;
 
+    // teste 02
     printf("char %d bytes\n", sizeof(a));
     printf("int %d bytes\n", sizeof(b));
     printf("float %d bytes\n", sizeof(c));
