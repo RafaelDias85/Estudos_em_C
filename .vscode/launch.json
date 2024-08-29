@@ -8,10 +8,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Engenharia6/Desktop/RafaelDias/PROJETOS_TESTES/Estudos_de_C/microgenios/Estudos_em_C/EXE01",
-      "program": "c:/Users/Engenharia6/Desktop/RafaelDias/PROJETOS_TESTES/Estudos_de_C/microgenios/Estudos_em_C/EXE01/build/Debug/outDebug",
+      "cwd": "c:/Users/Engenharia6/Desktop/RafaelDias/PROJETOS_TESTES/Estudos_de_C/microgenios/Estudos_em_C/EXE11-register",
+      "program": "c:/Users/Engenharia6/Desktop/RafaelDias/PROJETOS_TESTES/Estudos_de_C/microgenios/Estudos_em_C/EXE11-register/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
