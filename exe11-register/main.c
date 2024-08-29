@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
     register int data = 10;
     printf("%d \n", data);
     data = 12;
